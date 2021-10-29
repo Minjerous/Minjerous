@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋,I'm leenmenjurs
 -------------------------------------------------------------
 ### Freshman，just a rookie who learns slowly
  - 🔭 I’m currently working on **Chongqing**<br>
