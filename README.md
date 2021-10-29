@@ -1,6 +1,6 @@
 ### Hi 👋,I'm lemenjurs
 -------------------------------------------------------------
-### Freshman，just a rookie who learns slowly
+### Freshman，just a rookie FW
  - 🔭 I’m currently working on **Chongqing**<br>
  - 🌱 I’m currently learning **Golang**<br>
  - 🌴 I’m planning to learn **Goweb**<br>
