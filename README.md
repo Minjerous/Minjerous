@@ -2,7 +2,7 @@
 -------------------------------------------------------------
 ### Freshman，just a rookie FW
  - 🔭 I’m currently working on **Chongqing**<br>
- - 🌱 I’m currently learning **GO**<br>
+ - 🌱 I’m currently learning **GO** <br> 
  - 🌴 I’m planning to learn **rust**<br>
  - 📫 How to reach me **1725014728@qq.com**<br>
  ### Github stats
