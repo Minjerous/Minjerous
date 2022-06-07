@@ -2,8 +2,8 @@
 -------------------------------------------------------------
 ### Freshman，just a rookie FW
  - 🔭 I’m currently working on **Chongqing**<br>
- - 🌱 I’m currently learning **Golang**<br>
- - 🌴 I’m planning to learn **Goweb**<br>
+ - 🌱 I’m currently learning **GO**<br>
+ - 🌴 I’m planning to learn **rust**<br>
  - 📫 How to reach me **1725014728@qq.com**<br>
  ### Github stats
  ![MJ's github stats](https://github-readme-stats.vercel.app/api?username=Minjerous&show_icons=true&theme=radical)<br>
